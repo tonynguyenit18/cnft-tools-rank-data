@@ -10,5 +10,8 @@
   },
   "bosscatrocketclub": {
     "useFullName": false
+  },
+  "oremob": {
+    "useFullName": true
   }
 }
