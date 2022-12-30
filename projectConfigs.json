@@ -1,0 +1,11 @@
+{
+  "claynation": {
+    "useFullName": false
+  },
+  "claynationxgoodcharlotte": {
+    "useFullName": false
+  },
+  "theapesociety": {
+    "useFullName": true
+  }
+}
