@@ -13,5 +13,8 @@
   },
   "oremob": {
     "useFullName": true
+  },
+  "yummiuniverse": {
+    "useFullName": true
   }
 }
