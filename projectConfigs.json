@@ -12,7 +12,8 @@
     "useFullName": true
   },
   "oremob": {
-    "useFullName": true
+    "useFullName": true,
+    "rankSymbol": "O:"
   },
   "yummiuniverse": {
     "useFullName": true
